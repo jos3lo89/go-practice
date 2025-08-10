@@ -1,13 +1,9 @@
 package main
 
 import (
-	"fmt"
-	ch1 "go-course/chapter01_variables_data_types"
+	ch2 "go-course/chapter02_control_structures"
 )
 
 func main() {
-	fmt.Println("go practice")
-
-	ch1.PointersDemo()
-
+	ch2.RockPaperScissor()
 }
