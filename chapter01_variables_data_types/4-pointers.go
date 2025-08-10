@@ -1,8 +1,10 @@
+// Package ch1 contiene ejemplos de punteros conversiones de tipo y otras
+// caracteristicas basicas del lenguaje Go
 package ch1
 
 import "fmt"
 
-// pointersDemo demonstrates how to use pointers in go
+// PointersDemo demuestra como usar punteros en Go
 func PointersDemo() {
 	fmt.Println("=== Pointers ===")
 
